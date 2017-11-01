@@ -1,0 +1,248 @@
+﻿ | Adapted for the Mirandese language from Portuguese language stop list: svn.tartarus.org/snowball/trunk/website/algorithms/portuguese/stop.txt
+ | This file is distributed under the BSD License.
+ | See http://snowball.tartarus.org/license.php
+ | Also see http://www.opensource.org/licenses/bsd-license.html
+ |  - Encoding was converted to UTF-8.
+ |  - This notice was added.
+ |
+ | NOTE: To use this file with StopFilterFactory, you must specify format="snowball"
+
+ | A Mirandese stop word list. Comments begin with vertical bar. Each stop
+ | word is at the start of a line.
+
+
+ | The following is a ranked list (commonest to rarest) of stopwords
+ | deriving from a large sample of text.
+
+ | Extra words have been added at the end.
+
+de             |  of, from
+a              |  to, at; her
+la             |  the; her
+l              |  the; him
+que, quei      |  who, that
+i              |  and
+de l           |  de + l
+de la          |  de + la
+an, ne         |  in
+un             |  a
+pa, para       |  for
+  | ye         from SER
+cun            |  with
+nó, nun        |  no, not
+ua             |  a
+ls             |  the
+los            |  them
+ne l           |  ne + l or an + l
+se             |  himself etc
+na             |  an + la
+por            |  for
+mais, más      |  more
+las            |  the; them
+de ls          |  de + ls
+cumo           |  as, like
+mas            |  but
+  | fui        from SER
+al             |  a + l
+el             |  he
+de las         |  de + las
+  | ten        from TENER
+a la           |  a + la
+sou            |  his
+sue            |  her
+ó, u, ou       |  or
+  | ser        from SER
+quando         |  when
+muito, mui, mi |  much
+  | hai, há    from HABER
+mos, nos       |  an + ls; us
+yá             |  already, now
+  | stá        from STAR
+you            |  I
+tamien         |  also
+solo           |  only, just
+pul            |  por + l
+pula           |  por + la
+anté, até      |  up to
+esso, isso     |  that
+eilha          |  her
+antre          |  between
+  | era        from SER
+açpuis, adepuis, adespuis, apuis, çpuis  |  after
+sien, sin      |  without
+mesmo, miesmo  |  same
+als            |  a + ls
+  | tener      from TENER
+sous           |  his
+quien          |  whom
+nas            |  an + las
+me, mi         |  me
+esse           |  that
+eilhes         |  they
+  | stan       from STAR
+tu             |  you
+  | tenie      from TENER
+  | fúran      from SER
+essa           |  that
+nun            |  an + un
+nien, nin      |  nor
+sues           |  her
+miu            |  my
+a las          |  a + las
+mie            |  my
+  | ténen      from TENER
+nua            |  an + ua
+puls           |  por + ls
+eilhas         |  they
+  | habie      from HABER
+  | seia       from SER
+qual           |  which
+  | será       from SER
+nós            |  we
+  | tengo      from TENER
+le             |  to him, her
+deilhes        |  of them
+essas          |  those
+esses          |  those
+pulas          |  por + las
+este           |  this
+  | fusse      from SER
+del            |  of him
+
+ | other words. There are many contractions such as naquel = an+aquel,
+ | mo = me+o, but they are rare.
+ | Indefinite article plural forms are also rare.
+
+tu             |  thou
+te             |  thee
+bós            |  you (plural)
+bos            |  you
+les            |  to them
+mius           |  my
+mies
+tou            |  thy
+tue
+tous
+tues
+nuosso         | our
+nuossa
+nuossos
+nuossas
+
+deilha         |  of her
+deilhas        |  of them
+
+esta           |  this
+estes          |  these
+estas          |  these
+aquel          |  that
+aqueilha       |  that
+aqueilhes      |  those
+aqueilhas      |  those
+esto, isto     |  this
+aqueilho, aquilho |  that
+
+               | forms of star, to be (not including the infinitive):
+stou
+stá
+stamos
+stan
+stube
+stubo
+stubimos
+stubírun
+staba
+stábamos
+stában
+stubira
+stubíramos
+steia
+stéiamos, stemos
+stéian, sten
+stubisse
+stubíssemos
+stubíssen
+stubir
+stubirmos
+stubíren
+
+               | forms of haber, to have (not including the infinitive):
+hei
+hai, há
+hemos
+han
+hoube
+houbimos
+houbírun
+houbira
+houbíramos
+haba, haia
+hábamos, háiamos
+hában, háian
+houbisse, habisse
+houbíssemos, habíssemos
+houbíssen, habíssen
+houbir
+houbirmos
+houbíren
+
+               | forms of ser, to be (not including the infinitive):
+sou
+somos
+son, sano
+era
+éramos
+éran
+fui
+fui
+fumos
+fúrun
+fura
+fúramos
+seia
+séiamos
+séian
+fusse
+fússemos
+fússen
+fur
+furmos
+fúren
+serei
+será
+seremos
+seran, serano
+serie
+seriemos
+serien
+
+               | forms of tener, to have (not including the infinitive):
+tengo
+ten
+tenemos
+ténen
+tenie
+teniemos
+tenien
+tube
+tubo
+tubimos
+tubírun
+tubira
+tubíramos
+tenga
+téngamos
+téngan
+tubisse
+tubíssemos
+tubíssen
+tubir
+tubirmos
+tubíren
+tenerei
+tenerá
+teneremos
+teneran
+teneria
+teneriemos
+tenerien
