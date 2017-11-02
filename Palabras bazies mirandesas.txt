@@ -1,7 +1,7 @@
 ﻿de
 a
 la
-l
+l, lo
 que, quei
 i
 de l
@@ -13,8 +13,7 @@ ye
 cun
 nó, nun
 ua
-ls
-los
+ls, los
 ne l
 se
 na
