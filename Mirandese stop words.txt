@@ -24,13 +24,13 @@ que, quei      |  who, that
 i              |  and
 de l           |  de + l
 de la          |  de + la
-an, ne         |  in
+an, ne, en     |  in
 un             |  a
 pa, para       |  for
   | ye         from SER
 cun            |  with
 nó, nun        |  no, not
-ua             |  a
+ua, ũa         |  a
 ls             |  the
 los            |  them
 ne l           |  ne + l or an + l
@@ -68,7 +68,7 @@ esso, isso     |  that
 eilha          |  her
 antre          |  between
   | era        from SER
-açpuis, adepuis, adespuis, apuis, çpuis  |  after
+açpuis, adepuis, adespuis, apuis, çpuis, depuis  |  after
 sien, sin      |  without
 mesmo, miesmo  |  same
 als            |  a + ls
@@ -76,7 +76,8 @@ als            |  a + ls
 sous           |  his
 quien          |  whom
 nas            |  an + las
-me, mi         |  me
+me             |  me
+mi             |  me, «mi» is also a synonym of words «muito» and «mui»
 esse           |  that
 eilhes         |  they
   | stan       from STAR
@@ -91,7 +92,7 @@ miu            |  my
 a las          |  a + las
 mie            |  my
   | ténen      from TENER
-nua            |  an + ua
+nua, nũa       |  an + ua
 puls           |  por + ls
 eilhas         |  they
   | habie      from HABER
@@ -114,6 +115,7 @@ del            |  of him
  | Indefinite article plural forms are also rare.
 
 tu             |  thou
+ti
 te             |  thee
 bós            |  you (plural)
 bos            |  you
