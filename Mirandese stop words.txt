@@ -29,7 +29,7 @@ un             |  a
 pa, para       |  for
   | ye         from SER
 cun            |  with
-nó, nun        |  no, not
+nó, nan, nun   |  no, not
 ua, ũa         |  a
 ls             |  the
 los            |  them
